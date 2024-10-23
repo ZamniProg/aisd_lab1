@@ -1,0 +1,1 @@
+Array size: 5	Sort method: 1	Time: 9e-07 seconds
